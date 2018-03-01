@@ -1,0 +1,8 @@
+- labels:
+    job: mysql
+  targets:
+  - target1.examples.org:9113
+- labels:
+    job: mysql
+  targets:
+  - target2.examples.org:9113

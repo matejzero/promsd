@@ -1,0 +1,6 @@
+flask
+peewee
+pyyaml
+click
+flask_swagger
+flask_swagger_ui

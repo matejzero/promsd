@@ -1,0 +1,6 @@
+- labels:
+    env: prod
+    job: node
+    severity: critical
+  targets:
+  - target1.examples.org:9110
